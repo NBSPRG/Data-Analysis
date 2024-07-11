@@ -2,7 +2,7 @@
 
 This project has been done in order to analysis sales over data and tried to find different insights from it. 
 
-We have followed up around 15 questions and continuously adding furthermore as it is ongoing project. The questions has been mentioned in a text file [Questions](./SQL-Python-Ecommerce-Project-main/Questions.txt)
+We have followed up around 15 questions and continuously adding furthermore as it is ongoing project. The questions has been mentioned in a text file [Questions](/SQL-Python-Ecommerce-Project-main/Questions.txt)
 
 ---
 
