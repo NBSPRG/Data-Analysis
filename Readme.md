@@ -2,14 +2,14 @@
 
 This project has been done in order to analysis sales over data and tried to find different insights from it. 
 
-We have followed up around 15 questions and continuously adding furthermore as it is ongoing project. The questions has been mentioned in a text file [Questions](/SQL-Python-Ecommerce-Project-main/Questions.txt)
+We have followed up around 15 questions and continuously adding furthermore as it is ongoing project. The questions has been mentioned in a text file [Questions](./SQL-Python-Ecommerce-Data-Analysis/Questions.txt)
 
 ---
 
 ## Tools and Technologies
 
 - **MySQL**
-  - MySQL has been used for data ingestion, downloading data from kaggle then using [csv_to_sql](./SQL-Python-Ecommerce-Project-main/csv_to_sql.py), then ingested into mySQL
+  - MySQL has been used for data ingestion, downloading data from kaggle then using [csv_to_sql](./SQL-Python-Ecommerce-Data-Analysis/csv_to_sql.py), then ingested into mySQL
 
 - **Python**
   - Jupyter Notebook
